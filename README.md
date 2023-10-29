@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @JulienEsbt, a french student, in love with blockchain tech, cryptos, mecanical sports and a lot of stuffs.
+- 👋 Hi, I’m @JulienEsbt, a french student, in love with blockchain tech, artificial intelligence, finance, economics, cryptos, mecanical sports and a maaany other things...
 
-- 🌱 I’m currently learning computer science, dev, in a Fintech cursus and I am interested in blockchain more particularly, but also web and data base. 
+- 🌱 I’m currently learning Computer Science and finance, as I am in the final year of my MSc degree specializing in Fintech. 
 
-- 📫 You can reach me on twitter : https://twitter.com/JulienEsbtCrypt or over here : https://julien-esterbet.com (or https://linktr.ee/Learncryptosharecrypto).
+- 📫 You can reach me on twitter : https://twitter.com/JulienEsbtCrypt or over here on my website : https://www.julien-esterbet.com.
 
-- I am just sharing my code here, even though it is not very good, it will be one day !! Just want to progress and learn !
+- I am just sharing my code here, even though it still beginner code, it will get better everyday !! Just want to progress and learn !
 
-- Come and talk to me, I'm kind ^^!
+- Come and talk to me !
