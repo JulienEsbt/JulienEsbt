@@ -20,6 +20,12 @@ Une application desktop local-first conçue pour un contexte métier réel. Elle
 
 Le projet utilise React, TypeScript, Electron, Express et SQLite. L’application est testée, documentée, packagée et distribuée pour Windows et macOS.
 
+### [OpenDente — Édition personnelle](https://github.com/JulienEsbt/OpenDente)
+
+Une application macOS open source de gestion de batterie, que je maintiens comme fork personnel de [killerk3emstar/OpenDente](https://github.com/killerk3emstar/OpenDente). Développée en Swift et SwiftUI, elle propose une interface compacte dans la barre des menus pour les limites de charge, les modes temporaires et le suivi de la batterie.
+
+Mes ajouts comprennent la traduction français/anglais, les couleurs adaptées aux modes clair et sombre, la préparation au stockage, les pauses thermiques et les signaux MagSafe. Le dépôt documente les essais matériels et les limites du moteur natif de charge expérimental.
+
 ### [Site personnel et portfolio](https://github.com/JulienEsbt/My-Website)
 
 Mon portfolio React multilingue, déployé sur Vercel. Il réunit mes projets logiciels, des cartes de voyage, des réflexions longues au format MDX et des expérimentations Web3 dans une même application.

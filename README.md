@@ -20,6 +20,12 @@ A local-first desktop production tool built for a real operational context. It i
 
 Built with React, TypeScript, Electron, Express and SQLite. The application is tested, documented, packaged and distributed for Windows and macOS.
 
+### [OpenDente — Personal Edition](https://github.com/JulienEsbt/OpenDente)
+
+An open-source macOS battery-care app that I maintain as a personal fork of [killerk3emstar/OpenDente](https://github.com/killerk3emstar/OpenDente). Built with Swift and SwiftUI, it provides a compact menu-bar interface for charge limits, temporary charging modes and battery monitoring.
+
+My additions include French/English localization, adaptive light/dark colors, storage preparation, thermal pause controls and MagSafe status signals. The repository documents hardware validation and the limits of its experimental native charging backend.
+
 ### [Personal website and portfolio](https://github.com/JulienEsbt/My-Website)
 
 My multilingual React portfolio, deployed on Vercel. It brings together my software projects, travel maps, long-form reflections, MDX content and Web3 experiments in one application.
